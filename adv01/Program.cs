@@ -98,6 +98,7 @@ namespace adv01
             void add(T item);
             T get(T id);
         }
+
         public static void hamada<T>(T item) where T : struct
         {
 
